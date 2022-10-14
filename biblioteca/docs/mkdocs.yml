@@ -1,0 +1,11 @@
+site_name: Biblioteca LegisOffice
+
+nav: 
+  - Inicio: 'index.md'
+  - 'servicioweb_api': 'servicioweb_api.md'
+  - 'Servicio WebAPI mensajes de error': 'servicioweb_apimensajes.md'
+  - 'Inovación del servicio WebAPI': 'invocacion.md'
+  - 'Reporte': 'reporte.md'
+  - Acerca de: 'about.md'
+
+theme: readthedocs
